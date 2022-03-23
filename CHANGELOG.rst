@@ -2,6 +2,12 @@
 Changelog
 =========
 
+[UnReleased]
+============
+
+ouster_ros
+----------
+* Updated PCL ring type from Uint8 to Uint16
 
 [20220107]
 ============
