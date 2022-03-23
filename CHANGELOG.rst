@@ -2,7 +2,7 @@
 Changelog
 =========
 
-[UnReleased]
+[Unreleased]
 ============
 
 ouster_ros
